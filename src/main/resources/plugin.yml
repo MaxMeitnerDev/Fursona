@@ -1,0 +1,11 @@
+name: Fursona
+version: 1.1
+main: maxmeitner.fursona.Fursona
+api-version: 1.13
+depend: [ PlaceholderAPI ]
+authors: [ MaxMeitner ]
+description: A plugin that adds the ability to select fursona.
+website: https://discord.gg/QVU7X9852n
+commands:
+  fursona:
+    usage: "/fursona reload, /fursona set <fursona>, /fursona list, /fursona help"
